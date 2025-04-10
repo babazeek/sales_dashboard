@@ -1,6 +1,3 @@
-# sales_dashboard
-# Pizza Sales Dashboard Overview
-
 #1. Introduction  
 The Pizza Sales Dashboard is an interactive, Excel-based tool designed to offer a comprehensive view of pizza sales data. This dashboard empowers business owners and managers to visualize and analyze key performance indicators (KPIs) related to sales, revenue, and product performance.
 
@@ -24,8 +21,8 @@ Charts were created to bring the data to life, making complex numbers easier to 
 
 ### d. Best and Worst Sellers Analysis  
 A key feature of the dashboard is its focus on identifying top and bottom-selling pizzas:
-- **Top 5 Best Sellers**: We identified the pizzas with the highest sales and revenue, which included Classic Deluxe and Chicken Pizza.
-- **Bottom 5 Worst Sellers**: Pizzas like Brick Hair Pizza and Sata Pizza, which performed poorly in terms of orders, were highlighted.
+- **Top 5 Best Sellers**: We identified the pizzas with the highest sales and revenue.
+- **Bottom 5 Worst Sellers**: Pizzas, which performed poorly in terms of orders, were highlighted.
 
 This analysis allows the business to focus on promoting popular items while reevaluating or removing underperforming pizzas from the menu.
 
@@ -59,6 +56,7 @@ The Pizza Sales Dashboard offers a powerful way to visualize and analyze pizza s
 
 # 4.The dashboard
 ![Dashboard](Pizza_sales_dashboard.png)
+[Project file]()
 
 
 
