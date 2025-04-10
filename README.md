@@ -56,5 +56,10 @@ This dashboard was designed to address the need for a comprehensive, easy-to-nav
 ## 3. Conclusion  
 The Pizza Sales Dashboard offers a powerful way to visualize and analyze pizza sales data. With its interactive features, it allows for quick decision-making and strategic planning. Managers can easily identify trends, track the performance of menu items, and make informed decisions based on real-time data.
 
+## 4. The dashboard
+![Dashboard]()
+
+
+
 
 .
