@@ -5,7 +5,7 @@
 The Pizza Sales Dashboard is an interactive, Excel-based tool designed to offer a comprehensive view of pizza sales data. This dashboard empowers business owners and managers to visualize and analyze key performance indicators (KPIs) related to sales, revenue, and product performance.
 
 ## The steps and actions taken to come up with the dashboard are listed below:
-The data set:[Dataset](pizza_sales excel file.xlsx)
+[Dataset](pizza_sales excel file.xlsx)
 # a. Data Preparation  
 The project began with collecting and cleaning raw data, including details such as order IDs, pizza types, sizes, quantities, and total price. This organized data served as the foundation for generating pivot tables and creating insightful visual charts.
 
