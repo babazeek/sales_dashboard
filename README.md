@@ -66,10 +66,25 @@ This dashboard was designed to address the need for a comprehensive, easy-to-nav
 # 3. Conclusion  
 The Pizza Sales Dashboard offers a powerful way to visualize and analyze pizza sales data. With its interactive features, it allows for quick decision-making and strategic planning. Managers can easily identify trends, track the performance of menu items, and make informed decisions based on real-time data.
 
-# 4.The dashboard
-![Dashboard snap](Pizza_sales_dashboard.png)
-## The whole project file
-[Project file](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbabazeek%2Fsales_dashboard%2Frefs%2Fheads%2Fmain%2FPizza%2520Sales%2520dashboard.xlsx&wdOrigin=BROWSELINK)
+# 4. The Dashboard
+
+![Dashboard snapshot](Pizza_sales_dashboard.png)
+
+---
+
+## Project File
+
+You can download the complete project file from the following link:  
+[Download Pizza Sales Dashboard Project](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbabazeek%2Fsales_dashboard%2Frefs%2Fheads%2Fmain%2FPizza%2520Sales%2520dashboard.xlsx&wdOrigin=BROWSELINK)
+
+---
+
+### Key Features of the Dashboard:
+
+- Provides a comprehensive overview of pizza sales.
+- Visualizations include top-performing pizza categories, sizes, and order trends.
+- Interactive filters for a dynamic and tailored view of the data.
+
 
 
 
