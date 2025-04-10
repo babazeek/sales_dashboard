@@ -3,8 +3,17 @@ The Pizza Sales Dashboard is an interactive, Excel-based tool designed to offer 
 
 ### <p><em>The actions and steps involved are;.</em></p>
 
-[Dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbabazeek%2Fsales_dashboard%2Frefs%2Fheads%2Fmain%2Fpizza_sales%2520excel%2520file.xlsx&wdOrigin=BROWSELINK)
-[SQLQuerries](https://raw.githubusercontent.com/babazeek/sales_dashboard/refs/heads/main/Pizza%20Sales%20Query.sql)
+## Dataset
+
+You can access the dataset here:  
+[Download Pizza Sales Dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbabazeek%2Fsales_dashboard%2Frefs%2Fheads%2Fmain%2Fpizza_sales%2520excel%2520file.xlsx&wdOrigin=BROWSELINK)
+
+---
+
+## SQL Queries
+
+You can view the SQL queries used for the analysis here:  
+[View Pizza Sales SQL Queries](https://raw.githubusercontent.com/babazeek/sales_dashboard/refs/heads/main/Pizza%20Sales%20Query.sql)
 
 ### a. Data Preparation  
 The project began with collecting and cleaning raw data, including details such as order IDs, pizza types, sizes, quantities, and total price. This organized data served as the foundation for generating pivot tables and creating insightful visual charts.
