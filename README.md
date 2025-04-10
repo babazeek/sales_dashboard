@@ -5,10 +5,10 @@
 The Pizza Sales Dashboard is an interactive, Excel-based tool designed to offer a comprehensive view of pizza sales data. This dashboard empowers business owners and managers to visualize and analyze key performance indicators (KPIs) related to sales, revenue, and product performance.
 
 ## The steps and actions taken to come up with the dashboard are listed below:
-## a. Data Preparation  
+# a. Data Preparation  
 The project began with collecting and cleaning raw data, including details such as order IDs, pizza types, sizes, quantities, and total price. This organized data served as the foundation for generating pivot tables and creating insightful visual charts.
 
-## b. Pivot Table Setup  
+# b. Pivot Table Setup  
 To summarize the data, three pivot tables were created:
 - **Total revenue by pizza category**
 - **Sales by pizza size**
@@ -16,27 +16,27 @@ To summarize the data, three pivot tables were created:
 
 These pivot tables enabled us to group and analyze the data efficiently, providing a solid base for creating dynamic charts.
 
-## c. Chart Design and Visualization  
+# c. Chart Design and Visualization  
 Charts were created to bring the data to life, making complex numbers easier to interpret:
 - **Donut Charts**: These were used to visualize sales distribution by category and size, providing quick insights into the most popular options.
 - **Funnel Chart**: This chart illustrated the order trends over time, helping to identify peak sales periods.
 
-## d. Best and Worst Sellers Analysis  
+# d. Best and Worst Sellers Analysis  
 A key feature of the dashboard is its focus on identifying top and bottom-selling pizzas:
 - **Top 5 Best Sellers**: We identified the pizzas with the highest sales and revenue, which included Classic Deluxe and Chicken Pizza.
 - **Bottom 5 Worst Sellers**: Pizzas like Brick Hair Pizza and Sata Pizza, which performed poorly in terms of orders, were highlighted.
 
 This analysis allows the business to focus on promoting popular items while reevaluating or removing underperforming pizzas from the menu.
 
-## e. Dashboard Integration  
+# e. Dashboard Integration  
 The data and charts were brought together on a single dashboard for easy navigation:
 - **PivotCharts**: Bar charts for best and worst sellers were integrated and formatted for clarity.
 - **Slicer Tool**: A timeline slicer was added, allowing users to filter data by specific time periods, such as months or years.
 
-## f. Interactivity and Customization  
+# f. Interactivity and Customization  
 To enhance user experience, the dashboard was made interactive. The slicer tool syncs all the charts, so selecting a different time period updates the data across the dashboard. This feature allows users to analyze trends and performance across various time frames.
 
-## g. Project conclusion
+# g. Project conclusion
 
 The objective of this project was to create an insightful and interactive dashboard to analyze pizza sales data, providing key performance indicators (KPIs), sales trends, and a breakdown of performance according to category, size, and overall sales. The aim was to uncover actionable insights for decision-making, focusing on identifying best-selling items, underperforming products, and sales trends over time.
 
